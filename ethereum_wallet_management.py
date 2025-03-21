@@ -13,7 +13,7 @@ from eth_account import Account
 import secrets
 
 # Kết nối đến mạng thử nghiệm Sepolia thay vì mainnet để có thể nhận ETH miễn phí
-INFURA_URL = "https://sepolia.infura.io/v3/d1cc3494fdd6483e99932cdd75f5a727"
+INFURA_URL = "https://sepolia.infura.io/v3/{URL_INFURA_YOUR_API_KEY}"
 w3 = Web3(Web3.HTTPProvider(INFURA_URL))
 
 # Sử dụng middleware cho mạng PoA như Sepolia
