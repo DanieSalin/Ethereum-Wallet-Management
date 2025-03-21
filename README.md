@@ -25,7 +25,7 @@ pip install web3 eth-account
 
 2. Kết nối đến mạng Ethereum:
    - Script đã được cấu hình với API key Infura
-   - Đang kết nối đến mạng thử nghiệm Sepolia để bạn có thể nhận ETH miễn phí
+   - Kết nối đến mạng thử nghiệm Sepolia để bạn có thể nhận ETH miễn phí
 
 ## Cách nhận ETH miễn phí
 
@@ -93,4 +93,15 @@ Script này có các chức năng:
 ## Giải quyết sự cố
 
 - Nếu không thể gửi giao dịch, hãy đảm bảo rằng bạn đã có ETH trong ví
-- Chúng ta đã khắc phục lỗi với middleware geth_poa_middleware bằng cách thêm xử lý try/except 
+- Mình đã khắc phục lỗi với middleware geth_poa_middleware bằng cách thêm xử lý try/except 
+
+
+
+## Liên hệ
+
+Nếu bạn có bất kỳ câu hỏi hoặc góp ý nào, vui lòng liên hệ với tôi qua:
+
+- GitHub: [DanieSalin](https://github.com/DanieSalin)
+- Email: dodat2004py@gmail.com  
+- LinkedIn: [Đỗ Tấn Đạt](https://www.linkedin.com/in/dotandatdaniel/)
+
